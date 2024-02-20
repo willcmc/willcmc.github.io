@@ -1,14 +1,17 @@
-# updated website
+### `PWD` - /home/willcmc/about.me
 
-This repo is built on a fork of **Jekyll Now** from [this repository](https://github.com/barryclark/jekyll-now). **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+## Control Engineer, Aviation and Spaceflight Enthusiast, Musician
 
-The website design is just a modification of [Jon Barron's website](https://jonbarron.info/) and is converted for my own use, re-purposing my old markdown posts. **Feel free to use template for your own purposes**, but please respect copyright for all the images/content in my `images`, `pdfs`, `_posts` folders. 
+- Flight Performance and Dynamics, Aircraft Control, Space Dynamics, Optimization, Embedded Systems Design
+- Experience with robust and optimal control, insight into real systems and system identification
+- Ever promoting and endlessly using: GNU/[Linux](https://www.linux.org/), [AVR](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus), [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), [ROS](https://www.ros.org/), [Eagle](https://www.autodesk.com/products/eagle/overview), [Obsidian](https://obsidian.md/), [VSCode](https://code.visualstudio.com/)
+- Keyboardist, [composer](https://soundcloud.com/willcmc), and (unpublished) sci-fi writer.
 
+### Languages and Tools:
 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ros.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/52452181/119801381-480fdd00-befb-11eb-8ec1-108c11097f07.png" alt="noetic-ros" width="40" height="40"/> </a><a href="https://www.ros.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/52452181/119801297-329ab300-befb-11eb-8c70-1f023cf7236e.png" alt="foxy-ros2" width="40" height="40"/> </a></p>
 
-## issues
-* In general, jekyll will try to build a full page for every post. I skip that by forcing `permalink: /`. This creates multiple entries in sitemap.xml for index.html but is otherwise fine. 
-* If you want multiple paragraphs, consider using `excerpt_separator: <!--more-->` in `_config.yml`, for my own use I didn't need this. 
-* My own posts have lots of extra stuff left over from my old jekyll design ("author", long descriptions, etc.), feel free to ignore them
-* I use thumbnails, so I can upload arbitrary sized images but then only display small ones. The `_make_thumbnails.sh` script generates them and the html template looks in `tn/` for all images. 
-* I have three categories of post with slightly differerent formatting, so changing sizing requires edits in multiple paces. 
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willcmc&show_icons=true&locale=en&layout=compact" alt="willcmc" /></p>-->
+
+<br />
+<br />
