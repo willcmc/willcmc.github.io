@@ -11,4 +11,4 @@ doi: https://doi.org/10.1109/ICMT56556.2022.9997746
 code: https://github.com/willcmc/hovercraft
 website: https://willcmc.github.io/nonlinear
 ---
-We propose a simple change in hovercraft configuration that, with the help of feedback linearization, mitigates the underactuated nature of the dynamic system.
+We propose a simple change in hovercraft configuration that, with the help of feedback linearization, mitigates the underactuated nature of the dynamic system even under disturbances.
