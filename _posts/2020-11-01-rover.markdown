@@ -3,7 +3,7 @@ layout: post
 title:  "URC Preliminary Rover Design"
 date:   2020-11-01 22:21:59 +00:00
 image: /images/rover.jpg
-categories: "Autonomous Ground Vehicle Undergrad Research Group"
+categories: AGV
 author: "William Retnaraj"
 venue: "University Rover Challenge"
 website: https://willcmc.github.io/rover
