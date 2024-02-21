@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Aircraft Design: eVTOL for Inter-city Connectivity"
+date:   2020-12-01 22:21:59 +00:00
+image: /images/nacdec.jpg
+categories: competition
+author: "William Retnaraj"
+authors: "Jasmine Jerry, Ruthu Sanketi, Nikita Sehrawat, <strong>William Retnaraj</strong>, Shobhit Mahajan"
+venue: "National Aerospace Conceptual Design Competition - IV"
+---
+We presented a preliminary aircraft design for an aircraft that enables point-to-point connectivity. I specificially contributed to the propulsion system design and power calculations.

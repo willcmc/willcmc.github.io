@@ -8,6 +8,6 @@ course: MPC
 author: "William Retnaraj"
 authors: "<strong>William Retnaraj</strong>, Anubhab Dasgupta, Atreyee Kundu"
 code: https://github.com/willcmc/koopman
-website: https://willcmc.github.io/koopman
+website: https://willcmc.github.io/autoland
 ---
 We explore the possibility of learning a higher-dimensional linear representation of an aircraft in the process of approach and landing, which involves very dynamic operating conditions.
