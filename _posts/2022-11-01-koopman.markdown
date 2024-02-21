@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Koopman-based MPC for Flight Autoland"
+date:   2022-11-01 22:21:59 +00:00
+image: /images/koopman_a320.jpg
+categories: coursework
+author: "William Retnaraj"
+authors: "<strong>William Retnaraj</strong>, Anubhab Dasgupta, Atreyee Kundu"
+code: https://github.com/willcmc/koopman
+website: https://willcmc.github.io/koopman
+---
+We explore the possibility of learning a higher-dimensional linear representation of an aircraft in the process of approach and landing, which involves very dynamic operating conditions.

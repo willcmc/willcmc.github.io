@@ -2,7 +2,7 @@
 layout: post
 title:  "Adaptive Identification of SIS Models"
 date:   2023-12-18 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+image: /images/NetworkCI95.png
 categories: research
 author: "William Retnaraj"
 authors: "Chi Ho Leung, <strong>William Retnaraj</strong>, Ashish Hota, Philip Paré"

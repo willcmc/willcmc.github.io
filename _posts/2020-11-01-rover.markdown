@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "URC Preliminary Rover Design"
+date:   2020-11-01 22:21:59 +00:00
+image: /images/rover.jpg
+categories: agv
+author: "William Retnaraj"
+venue: "University Rover Challenge"
+website: https://willcmc.github.io/rover
+---
+We created the complete manufacture-ready mechanical design for URC, a mars rover design competition. My specific contributions were team leadership and wheel design based on best practices reported in literature.
