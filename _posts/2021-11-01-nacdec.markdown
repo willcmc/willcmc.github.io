@@ -8,4 +8,4 @@ author: "William Retnaraj"
 authors: "Jasmine Jerry, Ruthu Sanketi, Nikita Sehrawat, <strong>William Retnaraj</strong>, Shobhit Mahajan"
 venue: "National Aerospace Conceptual Design Competition - IV"
 ---
-We presented a preliminary aircraft design for an aircraft that enables point-to-point connectivity. I specificially contributed to the propulsion system design and power calculations.
+We presented a preliminary aircraft design for an aircraft that enables point-to-point connectivity. Specificially contributed to the propulsion system design and power calculations.
