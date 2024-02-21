@@ -3,7 +3,7 @@ layout: post
 title:  "Modeling and Feedback Linearization of an Electric Hovercraft for Path Tracking"
 date:   2022-11-18 22:21:59 +00:00
 image: /images/ICMT.jpg
-categories: research
+categories: "MPC Coursework Project"
 author: "William Retnaraj"
 authors: "<strong>William Retnaraj</strong>, Somnath Sengupta, Truong Quang Dinh"
 venue: "2022 25th International Conference on Mechatronics Technology (ICMT)"
